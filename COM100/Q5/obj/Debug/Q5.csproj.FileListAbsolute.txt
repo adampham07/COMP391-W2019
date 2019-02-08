@@ -1,0 +1,7 @@
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\bin\Debug\Q5.exe.config
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\bin\Debug\Q5.exe
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\bin\Debug\Q5.pdb
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\obj\Debug\Q5.csprojAssemblyReference.cache
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\obj\Debug\Q5.exe
+C:\Users\Windows 10 TIMT\source\repos\Solution1\Q5\obj\Debug\Q5.pdb
